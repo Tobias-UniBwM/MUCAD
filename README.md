@@ -1,2 +1,2 @@
 # MUCAD
-MUltispectral CAmouflaged target detection Dataset
+**MU**ltispectral dataset for **CA**mouflaged target **D**etection
