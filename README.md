@@ -1,6 +1,6 @@
 # MUCAD
 
-MUCAD stands for _**Mu**ltispectral dataset for **ca**mouflage **d**etection_ and contains multiple camouflaged objects that were captured with a multispectral camera system. The [captures directory](captures) contains a single image file for each band per capture. Each capture maps to a ground truth mask in the [targets directory](targets), in which each camouflaged object has been annotated with a unique color. The color coding is defined in the [labels file](labels.yaml). MUCAD contains 23 captures in total.
+MUCAD stands for _**Mu**ltispectral dataset for **ca**mouflage **d**etection_ and contains multiple camouflaged objects that were captured with a multispectral camera system. The [captures directory](captures) contains a single image file for each band per capture. Each capture maps to a ground truth mask in the [targets directory](targets), in which each camouflaged object has been annotated with a unique color. The color coding (RGB) is defined in the [labels file](labels.yaml). MUCAD contains 23 captures in total.
 
 Detailed information about MUCAD and our research, in which we evaluated several algorithms for detecting the camouflaged objects in the dataset, can be found in our [publication](https://doi.org/10.3390/rs14153755).
 
